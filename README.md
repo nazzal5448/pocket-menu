@@ -12,10 +12,10 @@
 
 ## Directory Structure
 
-- `/chrome`: Unpacked Chrome extension (Manifest V3)
-- `/edge`: Unpacked Edge extension (Manifest V3)
-- `/firefox`: Unpacked Firefox extension (Manifest V3 with Firefox specific properties)
-- `/cyber-cafe`: "Cyber Café" Premium Browser Theme project files
+- `/chrome`: Unpacked [Chrome extension](https://chromewebstore.google.com/detail/pocket-menu/cpogljbinojocldaaakglemmjmfcgebl) (Manifest V3)
+- `/edge`: Unpacked [Edge extension]() (Manifest V3)
+- `/firefox`: Unpacked [Firefox extension[(https://addons.mozilla.org/en-US/firefox/addon/cyber-caf%C3%A9/) (Manifest V3 with Firefox specific properties)
+- `/cyber-cafe`: "Cyber Café" Premium [Browser Theme](https://addons.mozilla.org/en-US/firefox/addon/cyber-caf%C3%A9/) project files
 
 ## Installation (Developer Mode)
 
